@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Programmatic UI - UIKit
 //
-//  Created by Sava D (edu) on 3/31/23.
+//  Created by Sava Danchev on 3/31/23.
 //
 
 import UIKit
